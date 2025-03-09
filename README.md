@@ -1,5 +1,5 @@
-Amanda Rowe
-Annalee Dorozynski
+Amanda Rowe,
+Annalee Dorozynski,
 Liam Alexiou
 
 Work That Needs to be Done:
