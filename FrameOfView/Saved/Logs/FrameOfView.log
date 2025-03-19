@@ -1937,3 +1937,147 @@ The following settings have been applied:
 [2025.03.19-15.45.04:843][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.03.19-15.45.04:843][303]AssetCheck: /Game/PortalSystem/Portal_BP Validating asset
 [2025.03.19-15.45.05:529][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.03.19-15.45.35:016][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.03.19-15.45.35:053][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2025.03.19-15.45.35:053][494]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/VRTemplateMap_Auto291045A404E97CAB5883596808F5C03C9.tmp' to '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2025.03.19-15.45.35:054][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.072
+[2025.03.19-15.45.35:054][494]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2025.03.19-15.46.34:203][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1606.078857
+[2025.03.19-15.46.35:203][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-15.46.35:203][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1606.745483, Update Interval: 308.981598
+[2025.03.19-15.46.58:977][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.19-15.47.00:349][800]LogSlate: Window 'Save Content' being destroyed
+[2025.03.19-15.47.00:402][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-15.47.00:681][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.19-15.47.00:742][800]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2025.03.19-15.47.00:744][800]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/VRTemplateMap8073FD634ACC2312C731AC92D1CCE9CF.tmp' to '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2025.03.19-15.47.00:772][800]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.19-15.47.00:772][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-15.47.00:772][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData] ([1] browsable assets)...
+[2025.03.19-15.47.00:772][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData]
+[2025.03.19-15.47.01:225][800]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.19-15.47.01:227][800]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/VRTemplateMap_BuiltData82978F6A43A98F3444255E9A12DDABC1.tmp' to '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2025.03.19-15.47.01:230][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 457.687 ms (total: 967.456 ms)
+[2025.03.19-15.47.01:230][800]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.19-15.47.01:230][800]LogFileHelpers: Saving map 'VRTemplateMap' took 0.640
+[2025.03.19-15.47.01:230][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Fireplace_Low-poly/fireplace] ([1] browsable assets)...
+[2025.03.19-15.47.01:230][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Fireplace_Low-poly/fireplace]
+[2025.03.19-15.47.01:233][800]LogSavePackage: Moving output files for package: /Game/Fab/Fireplace_Low-poly/fireplace
+[2025.03.19-15.47.01:235][800]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/fireplace88AC5F8542B35580F34D1A8296CDF7BD.tmp' to '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fab/Fireplace_Low-poly/fireplace.uasset'
+[2025.03.19-15.47.01:237][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/InterchangeAssets/gltf/M_Default] ([1] browsable assets)...
+[2025.03.19-15.47.01:237][800]OBJ SavePackage: Finished generating thumbnails for package [/InterchangeAssets/gltf/M_Default]
+[2025.03.19-15.47.01:237][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/InterchangeAssets/gltf/M_Default" FILE="../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset" SILENT=true
+[2025.03.19-15.47.01:253][800]LogSavePackage: Moving output files for package: /InterchangeAssets/gltf/M_Default
+[2025.03.19-15.47.01:254][800]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/M_Default7BAC4BD242968018B5A9DAA492EDED9B.tmp' to '../../Plugins/Interchange/Assets/Content/gltf/M_Default.uasset'
+[2025.03.19-15.47.01:258][800]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData] ([1] browsable assets)...
+[2025.03.19-15.47.01:258][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Maps/VRTemplateMap_BuiltData]
+[2025.03.19-15.47.01:505][800]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2025.03.19-15.47.01:505][800]LogSavePackage: Moving '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Saved/VRTemplateMap_BuiltData30E42B9B44747F9A2DFEA5B49A889BF0.tmp' to '../../../../../../Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2025.03.19-15.47.01:529][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 2.09 sec)
+[2025.03.19-15.47.01:585][800]LogStall: Shutdown...
+[2025.03.19-15.47.01:586][800]LogStall: Shutdown complete.
+[2025.03.19-15.47.01:641][800]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:641][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.01:710][800]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.19-15.47.01:710][800]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:710][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.01:780][800]LogSlate: Window 'FrameOfView - Unreal Editor' being destroyed
+[2025.03.19-15.47.01:915][800]LogContentValidation: Display: Starting to validate 4 assets
+[2025.03.19-15.47.01:915][800]LogContentValidation: Enabled validators:
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-15.47.01:915][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-15.47.01:915][800]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap Validating asset
+[2025.03.19-15.47.01:915][800]AssetCheck: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData Validating asset
+[2025.03.19-15.47.01:915][800]AssetCheck: /Game/Fab/Fireplace_Low-poly/fireplace Validating asset
+[2025.03.19-15.47.01:915][800]AssetCheck: /InterchangeAssets/gltf/M_Default Validating asset
+[2025.03.19-15.47.01:941][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.19-15.47.01:951][800]Cmd: QUIT_EDITOR
+[2025.03.19-15.47.01:951][800]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.19-15.47.01:959][801]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.19-15.47.01:960][801]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.19-15.47.01:960][801]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.19-15.47.01:962][801]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:962][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.01:975][801]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.19-15.47.01:975][801]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.19-15.47.01:991][801]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:992][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.01:995][801]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:995][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.01:998][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.01:999][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:002][801]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.02:002][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:004][801]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.02:004][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:007][801]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.02:007][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:009][801]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.02:009][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:011][801]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-15.47.02:011][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-15.47.02:014][801]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.19-15.47.02:015][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.19-15.47.02:015][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.19-15.47.02:015][801]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.19-15.47.02:183][801]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.19-15.47.02:183][801]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.19-15.47.02:183][801]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2025.03.19-15.47.02:183][801]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.19-15.47.02:183][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.19-15.47.02:185][801]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.19-15.47.02:195][801]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.19-15.47.02:195][801]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.19-15.47.02:198][801]LogExit: Preparing to exit.
+[2025.03.19-15.47.02:272][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:276][801]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.19-15.47.02:885][801]LogEditorDataStorage: Deinitializing
+[2025.03.19-15.47.03:039][801]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.19-15.47.03:057][801]LogExit: Editor shut down
+[2025.03.19-15.47.03:062][801]LogExit: Transaction tracking system shut down
+[2025.03.19-15.47.03:197][801]LogExit: Object subsystem successfully closed.
+[2025.03.19-15.47.03:288][801]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.19-15.47.04:070][801]LogMemoryProfiler: Shutdown
+[2025.03.19-15.47.04:070][801]LogNetworkingProfiler: Shutdown
+[2025.03.19-15.47.04:070][801]LoadingProfiler: Shutdown
+[2025.03.19-15.47.04:070][801]LogTimingProfiler: Shutdown
+[2025.03.19-15.47.04:457][801]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.19-15.47.04:479][801]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.19-15.47.04:479][801]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5A255015-4098-367B-F788-7AB17D707849%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=012c3dff48a9d5c128d02fbb7311c0aa%7Cff82c0e656594d7a82dbb9dbd1a13865%7Ce2095c31-c33b-494f-a30d-f21d652c7266&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.19-15.47.05:038][801]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.19-15.47.05:045][801]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.19-15.47.05:045][801]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.19-15.47.05:047][801]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.19-15.47.05:048][801]RenderDocPlugin: plugin has been unloaded.
+[2025.03.19-15.47.05:051][801]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.19-15.47.05:051][801]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.19-15.47.05:051][801]LogPakFile: Destroying PakPlatformFile
+[2025.03.19-15.47.05:217][801]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.19-15.47.05:291][801]LogExit: Exiting.
+[2025.03.19-15.47.05:310][801]Log file closed, 03/19/25 11:47:05
