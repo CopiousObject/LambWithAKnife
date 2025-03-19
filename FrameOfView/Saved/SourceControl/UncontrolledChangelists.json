@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/PortalSystem/Portal_BP.uasset",
 				"C:/Users/amdor/OneDrive/Desktop/309 Directory/LambWithAKnife/FrameOfView/Content/PortalSystem/Portal_BP.uasset",
 				"C:/Users/amdor/OneDrive/Desktop/309 Directory/LambWithAKnife/FrameOfView/Content/PortalSystem/Portal_MAT.uasset",
 				"C:/Users/amdor/OneDrive/Desktop/309 Directory/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap",
@@ -40,9 +43,7 @@
 				"C:/Users/Eravin Terasil/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fire_VDB/Effects/VDB_Fire_009.uasset",
 				"C:/Users/Eravin Terasil/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fire_VDB/Effects/VDB_Fire_010.uasset",
 				"C:/Users/Eravin Terasil/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fire_VDB/Effects/VDB_Fire_006.uasset",
-				"C:/Users/Eravin Terasil/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fire_VDB/Effects/VDB_Fire_007.uasset",
-				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/Eravin Terasil/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fire_VDB/Effects/VDB_Fire_007.uasset"
 			]
 		}
 	]
