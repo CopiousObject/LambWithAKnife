@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset",
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fab/Megascans/Surfaces/Old_Fabric_Wall_Panel_ugclefmn/Medium/MI_ugclefmn.uasset",
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fab/Megascans/Surfaces/Old_Fabric_Wall_Panel_ugclefmn/Medium/T_ugclefmn_2K_B.uasset",
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fab/Megascans/Surfaces/Old_Fabric_Wall_Panel_ugclefmn/Medium/T_ugclefmn_2K_N.uasset",
+				"Z:/IGMProfile/Documents/GitHub/LambWithAKnife/FrameOfView/Content/Fab/Megascans/Surfaces/Old_Fabric_Wall_Panel_ugclefmn/Medium/T_ugclefmn_2K_ORM.uasset",
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
 				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/amdor/OneDrive/Documents/GitHub/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap",
