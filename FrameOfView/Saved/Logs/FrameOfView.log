@@ -4160,3 +4160,42 @@ Sampler Limit: 32
 [2025.04.16-13.42.17:786][949]AssetCheck: /InterchangeAssets/Materials/PhongSurfaceMaterial Validating asset
 [2025.04.16-13.42.17:786][949]AssetCheck: /Fab/Materials/Standard/M_MS_Base Validating asset
 [2025.04.16-13.42.17:786][949]AssetCheck: /Game/InvisibleMaterial Validating asset
+[2025.04.16-13.42.50:124][439]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/PictureFrameScenes, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/PictureFrameScenes'.
+[2025.04.16-13.42.51:576][582]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/PictureFrameScenes/BeachScene, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/PictureFrameScenes/BeachScene'.
+[2025.04.16-13.42.52:628][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.16-13.42.52:631][695]LogStreaming: Display: FlushAsyncLoading(790): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.16-13.42.52:639][695]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalObjects__/PictureFrameScenes/BeachScene/Beach2, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalObjects__/PictureFrameScenes/BeachScene/Beach2'.
+[2025.04.16-13.42.52:670][695]LogChaosDD: Creating Chaos Debug Draw Scene for world Beach2
+[2025.04.16-13.42.52:670][695]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/PictureFrameScenes/BeachScene/Beach2.Beach2'.
+[2025.04.16-13.42.52:678][695]LogWorldPartition: ULevel::OnLevelLoaded(Beach2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.04.16-13.42.52:678][695]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.16-13.42.52:678][695]LogWorldPartition: UWorldPartition::Initialize : World = /Game/PictureFrameScenes/BeachScene/Beach2.Beach2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.16-13.42.52:680][695]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalActors__/PictureFrameScenes/BeachScene/Beach2, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalActors__/PictureFrameScenes/BeachScene/Beach2'.
+[2025.04.16-13.42.52:768][695]LogWorldPartition: Display: WorldPartition initialize took 90.233 ms (total: 2.99 sec)
+[2025.04.16-13.42.52:769][695]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PictureFrameScenes/BeachScene/Beach2.Beach2
+[2025.04.16-13.42.52:769][695]Cmd: MAP LOAD FILE="Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/PictureFrameScenes/BeachScene/Beach2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.16-13.42.54:746][695]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/VRTemplate/Maps/VRTemplateMap.umap'.
+[2025.04.16-13.42.54:764][695]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-13.42.54:764][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-13.42.54:782][695]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.16-13.42.54:783][695]LogSlate: Slate User Unregistered.  User Index 8
+[2025.04.16-13.42.54:783][695]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.16-13.42.54:785][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.16-13.42.54:788][695]LogWorld: UWorld::CleanupWorld for Beach2, bSessionEnded=true, bCleanupResources=true
+[2025.04.16-13.42.54:788][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.16-13.42.54:788][695]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/PictureFrameScenes/BeachScene/Beach2.Beach2
+[2025.04.16-13.42.54:806][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.16-13.42.54:824][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.04.16-13.42.54:827][695]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalObjects__/PictureFrameScenes/BeachScene/Beach2, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalObjects__/PictureFrameScenes/BeachScene/Beach2'.
+[2025.04.16-13.42.54:830][695]LogAudio: Display: Audio Device (ID: 1) registered with world 'Beach2'.
+[2025.04.16-13.42.54:830][695]LogChaosDD: Creating Chaos Debug Draw Scene for world Beach2
+[2025.04.16-13.42.54:830][695]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/PictureFrameScenes/BeachScene/Beach2.Beach2'.
+[2025.04.16-13.42.54:831][695]LogWorldPartition: ULevel::OnLevelLoaded(Beach2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.04.16-13.42.54:831][695]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.16-13.42.54:831][695]LogWorldPartition: UWorldPartition::Initialize : World = /Game/PictureFrameScenes/BeachScene/Beach2.Beach2, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.16-13.42.54:832][695]LogAssetRegistry: Warning: FPathExistence failed to gather correct capitalization from disk for Z:/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalActors__/PictureFrameScenes/BeachScene/Beach2, because GetFilenameOnDisk returned non-matching filename '//banner.main.ad.rit.edu/students/lca9201/IGMProfile/Desktop/LambWithAKnife/FrameOfView/Content/__ExternalActors__/PictureFrameScenes/BeachScene/Beach2'.
+[2025.04.16-13.42.55:375][695]LogWorldPartition: Display: WorldPartition initialize took 544.796 ms (total: 3.53 sec)
+[2025.04.16-13.42.55:396][695]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.16-13.42.55:421][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.16-13.42.55:835][695]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.16-13.42.55:837][695]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.927ms to complete.
