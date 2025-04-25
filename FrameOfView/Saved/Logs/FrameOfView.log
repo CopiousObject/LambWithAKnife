@@ -1534,3 +1534,87 @@ FPackageName: Skipped package /Game/VRTemplate/Maps/VRTemplateMap_BuiltData has 
 [2025.04.25-01.39.32:576][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.25-01.39.32:577][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.25-01.39.32:577][614]AssetCheck: /Game/Main_Menu Validating asset
+[2025.04.25-01.40.02:667][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.04.25-01.40.04:411][147]LogSlate: Window 'Save Content' being destroyed
+[2025.04.25-01.40.04:441][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.25-01.40.04:612][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IMG_1962__1_] ([1] browsable assets)...
+[2025.04.25-01.40.04:615][147]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IMG_1962__1_.IMG_1962__1_]
+[2025.04.25-01.40.04:615][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/IMG_1962__1_]
+[2025.04.25-01.40.04:615][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IMG_1962__1_" FILE="../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Content/IMG_1962__1_.uasset" SILENT=true
+[2025.04.25-01.40.04:704][147]LogSavePackage: Moving output files for package: /Game/IMG_1962__1_
+[2025.04.25-01.40.04:704][147]LogSavePackage: Moving '../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Saved/IMG_1962__1_7C42C00648C8C714BC565C88F073D717.tmp' to '../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Content/IMG_1962__1_.uasset'
+[2025.04.25-01.40.04:704][147]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IMG_1962__1__Mat] ([1] browsable assets)...
+[2025.04.25-01.40.04:714][147]OBJ SavePackage:     Rendered thumbnail for [Material /Game/IMG_1962__1__Mat.IMG_1962__1__Mat]
+[2025.04.25-01.40.04:714][147]OBJ SavePackage: Finished generating thumbnails for package [/Game/IMG_1962__1__Mat]
+[2025.04.25-01.40.04:714][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IMG_1962__1__Mat" FILE="../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Content/IMG_1962__1__Mat.uasset" SILENT=true
+[2025.04.25-01.40.04:715][147]LogSavePackage: Moving output files for package: /Game/IMG_1962__1__Mat
+[2025.04.25-01.40.04:715][147]LogSavePackage: Moving '../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Saved/IMG_1962__1__Mat8D2A4C914A837A94DF8C3A8508187F36.tmp' to '../../../../../Desktop/GitHub/Spring2025/LambWithAKnife/FrameOfView/Content/IMG_1962__1__Mat.uasset'
+[2025.04.25-01.40.04:732][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.660 ms (total: 580.170 ms)
+[2025.04.25-01.40.04:809][147]LogStall: Shutdown...
+[2025.04.25-01.40.04:809][147]LogStall: Shutdown complete.
+[2025.04.25-01.40.04:873][147]LogSlate: Window 'FrameOfView - Unreal Editor' being destroyed
+[2025.04.25-01.40.04:875][147]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.04.25-01.40.04:978][147]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.25-01.40.04:980][147]LogContentValidation: Enabled validators:
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.25-01.40.04:980][147]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.25-01.40.04:980][147]AssetCheck: /Game/IMG_1962__1_ Validating asset
+[2025.04.25-01.40.04:980][147]AssetCheck: /Game/IMG_1962__1__Mat Validating asset
+[2025.04.25-01.40.04:983][147]Cmd: QUIT_EDITOR
+[2025.04.25-01.40.04:983][147]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.25-01.40.05:037][148]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.25-01.40.05:037][148]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.25-01.40.05:037][148]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.25-01.40.05:039][148]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2025.04.25-01.40.05:040][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.25-01.40.05:105][148]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.25-01.40.05:105][148]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.25-01.40.05:110][148]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.25-01.40.05:110][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.25-01.40.05:110][148]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.25-01.40.05:110][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.25-01.40.05:112][148]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.25-01.40.05:112][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.25-01.40.05:112][148]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.25-01.40.05:119][148]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.25-01.40.05:119][148]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.25-01.40.05:119][148]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.25-01.40.05:124][148]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.25-01.40.05:124][148]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.25-01.40.05:124][148]LogAudio: Display: Audio Device unregistered from world 'Main_Menu'.
+[2025.04.25-01.40.05:124][148]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.25-01.40.05:124][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.25-01.40.05:132][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.25-01.40.05:144][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.25-01.40.05:146][148]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.25-01.40.05:154][148]LogExit: Preparing to exit.
+[2025.04.25-01.40.05:188][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.25-01.40.06:509][148]LogEditorDataStorage: Deinitializing
+[2025.04.25-01.40.06:668][148]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.25-01.40.06:701][148]LogExit: Editor shut down
+[2025.04.25-01.40.06:709][148]LogExit: Transaction tracking system shut down
+[2025.04.25-01.40.06:947][148]LogExit: Object subsystem successfully closed.
+[2025.04.25-01.40.07:062][148]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.25-01.40.07:797][148]LogMemoryProfiler: Shutdown
+[2025.04.25-01.40.07:797][148]LogNetworkingProfiler: Shutdown
+[2025.04.25-01.40.07:797][148]LoadingProfiler: Shutdown
+[2025.04.25-01.40.07:797][148]LogTimingProfiler: Shutdown
+[2025.04.25-01.40.08:521][148]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.25-01.40.08:542][148]RenderDocPlugin: plugin has been unloaded.
+[2025.04.25-01.40.08:542][148]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.25-01.40.08:542][148]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.04.25-01.40.08:590][148]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.25-01.40.08:591][148]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8A0F43A7-43D5-0DAB-2DD7-A98913A5E30C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=9225d3184bb7155c7a605192bcb619e8%7C1546eb8d478f4d07b89c76efa66c2332%7C316d4e18-a7c7-466d-ba99-afe54f8b9995&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.25-01.40.09:153][148]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.04.25-01.40.09:153][148]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.25-01.40.09:153][148]LogNFORDenoise: NFORDenoise function shutting down
+[2025.04.25-01.40.09:159][148]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.04.25-01.40.09:159][148]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.04.25-01.40.09:159][148]LogPakFile: Destroying PakPlatformFile
+[2025.04.25-01.40.09:361][148]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.25-01.40.09:536][148]LogExit: Exiting.
+[2025.04.25-01.40.09:565][148]Log file closed, 04/24/25 21:40:09
